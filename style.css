@@ -62,7 +62,7 @@ img{
 }
 
 .redacted{
-    background-color: rgb(200, 157, 250);
+    background-color: rgb(1, 2, 3);
     color:  rgb(215, 206, 199);
 }
 
@@ -78,7 +78,7 @@ img{
     vertical-align: top;   
 }
 .box img{
-    margin: 0;
-    padding: 0;
+    margin: 2;
+    padding: 2;
     width: 100%;
 }
