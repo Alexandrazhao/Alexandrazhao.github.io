@@ -12,12 +12,12 @@ h1{
 }
 
 h3{
-    margin:0px;
+    margin:2px;
     color: rgb(206, 216, 167);
 }
 
 h2{
-    margin:0px;
+    margin:2px;
 }
 
 #main {
@@ -54,9 +54,9 @@ img{
 }
 
 .button {
-    background: white;
+    background: red;
     font-size: 110%;
-    color:gray;
+    color:green;
     padding: 4px;
     border:2px solid white;
 }
