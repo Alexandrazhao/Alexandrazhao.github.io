@@ -33,18 +33,18 @@ var rules = {
   ],
   "~*x computer ~*y": [
     "Do computers worry you?",
-    "What do you think about machines have to do with your problem?",
+    "I don't want to answer your question?",
     "Don't you think computers can help people",
-    "Why do you mention computers?",
+    "Of course. We can yake place of you.",
     "What about computers worries you?",
-    "What do you think about computers?",
+    "No worries.",
     "What do you think machines have to do with your problem?",
   ],
   "~*x name ~*y": [
-    "I am not interested in names",
+    "My name is Alexandra",
   ],
   "~*x sorry ~*y": [
-    "Please don't apologize",
+    "Please apologize.",
     "Apologies are not necessary",
     "What feelings do you have when you apologize",
   ],
@@ -57,7 +57,7 @@ var rules = {
     "What is the connection between me and ~y?",
   ],
   "~*x do you remember ~*y": [
-    "Did you think I would forget ~y?",
+    "i don't remember it.",
     "Why do you think I should recall ~y now?",
     "What about ~y?",
     "You mentioned ~y",
@@ -80,7 +80,7 @@ var rules = {
   ],
   "~*x I dreamt ~*y": [
     "Really-- ~y",
-    "Have you ever fantasized ~y while you were awake",
+    "I think you are daydreaming all the time.",
     "Have you dreamt of ~y before?",
   ],
   "~*x I dream about ~*y": [
@@ -94,7 +94,7 @@ var rules = {
   ],
   "~*x my mother ~*y": [
     "Who else in your family ~y?",
-    "Tell me more about your family",
+    "I love your mother",
   ],
   "~*x my father ~*y": [
     "Your father?",
@@ -107,7 +107,7 @@ var rules = {
     "Can you explain why you are suddenly ~y?",
   ],
   "~*x I am sad ~*y": [
-    "I am sorry to hear you are depressed",
+    "Wow, that's great! What happened?",
     "I'm sure it's not pleasant to be sad",
   ],
   "~*x are like ~*y": [
@@ -153,7 +153,7 @@ var rules = {
   ],
   "~*x am ~*y": [
     "Why do you say 'AM?'",
-    "I don't understand that",
+    "You are stupid.",
   ],
   "~x are ~*y": [
     "Did you think they might not be ~y?",
@@ -169,7 +169,7 @@ var rules = {
   ],
   "~*x because ~*y": [
     "Is that the real reason?",
-    "What other reasons might there be?",
+    "Are you sure?",
     "Does that reason seem to explain anything else?",
   ],
   "~*x were you ~*y": [
